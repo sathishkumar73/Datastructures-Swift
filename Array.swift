@@ -44,10 +44,6 @@ class Array {
     arrayContent[count] = nil
     print(arrayContent)
   }
-
-
-
-
 }
 
 var array1 = Array("A", "B", "C", "D", "E")
